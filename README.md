@@ -1,6 +1,11 @@
 # Certifiable Robot-World Hand-Eye Calibration
 
+
+
 Dual-camera hand-eye calibration using AprilTags and OptiTrack, with a certifiable SDP solver from [Rosen et al. 2025](https://arxiv.org/abs/2501.00683).
+
+## Report
+[Final Project Report (PDF)](./final_report.pdf)
 
 ## Problem
 
